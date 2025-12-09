@@ -1,29 +1,5 @@
-Hello world
-New line added 
-python
-file handling
-prcticals
-found you
-python
-file handling
-prcticals
-found you
-python
-file handling
-prcticals
-found you
-python
-file handling
-prcticals
-found you
-python
-file handling
-prcticals
-found you
-how are you Miss wand?how are you Miss wand?how are you Miss wand?
-how are you Miss wand?
-how are you Miss wand?
-how are you Miss wand?
-how are you Miss wand?
-how are you Miss wand?
-how are you Miss wand?
+B001,The Alchemist,Paulo Coelho,350,Fiction
+B002,Python Crash Course,Eric Matthes,550,Programming
+B003,War and Peace,Leo Tolstoy,700,Classic
+B004,Data Structures in Python,Narasimha Karumanchi,600,Programming
+B005,The Monk Who Sold His Ferrari,Robin Sharma,400,Self-Help
