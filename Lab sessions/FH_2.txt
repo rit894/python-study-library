@@ -1,0 +1,5 @@
+Cricket,Team,[India,Australia,England],No
+Football,Team,[Brazil,Argentina,Germany],Yes
+Badminton,Individual,[China,Indonesia,India],Yes
+Chess,Individual,[Russia,India,USA],No
+Athletics,Individual,[USA,Jamaica,Kenya],Yes
