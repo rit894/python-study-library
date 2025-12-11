@@ -42,5 +42,35 @@ def bubble_sort_recursive(arr, n=None, count=0):
 marks = [45, 12, 78, 34, 56]
 sorted_list, swaps = bubble_sort_recursive(marks)
 print(f"Sorted list: {sorted_list}, Total swaps: {swaps}")
+ 
+ # PASS BY PASS VISUALIZATION
+def bubble_sort_visual(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+        print(f"After pass {i+1}: {arr}")
+
+marks = [45, 12, 78, 34, 56]
+bubble_sort_visual(marks)
+
+# While LOOP BUBBLE SORT
+def bubble_sort(arr):
+    n = len(arr)
+    count = 0
+    swapped = True
+    while swapped:
+        swapped = False
+        for i in range(1, n):
+            if arr[i-1] > arr[i]:
+                arr[i-1], arr[i] = arr[i], arr[i-1]
+                count += 1
+                swapped = True
+        n -= 1  # reduce range since last element is sorted
+    return arr, count
+
+marks = [45, 12, 78, 34, 56]
+print(bubble_sort(marks))
 
     
