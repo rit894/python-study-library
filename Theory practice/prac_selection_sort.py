@@ -1,3 +1,4 @@
+#Selection Sort has a time complexity of O(n^2) in the best, average, and worst cases.
 def Selection_sorting(a):
     for i in range(len(a)):
         min_index=i
