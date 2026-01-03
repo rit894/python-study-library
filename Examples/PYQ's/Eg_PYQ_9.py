@@ -95,8 +95,12 @@ def artistwiseGenre(a, b, c):
             dict_1[artist] = {genre: 0 for genre in c}  
         for g in details['Genre']:
             if g in c:
-                dict_1[artist][g] += 1   
+                dict_1[artist][g] += 1  
+    return dict_1 
 
 print(artistwiseGenre(songs.values(), Artist(songs.values()), popular_Genres(songs.values())))
+def my_function(*kids):
+  print("The youngest child is " + kids[1])
+my_function("Emil", "Tobias", "Linus")
 
-        
+

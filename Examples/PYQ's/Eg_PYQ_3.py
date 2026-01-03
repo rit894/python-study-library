@@ -75,6 +75,7 @@ country's name. The second line prints the count of crops for which the country'
 in the top three tables. 
 N=int(input())'''
 Agriculture={}
+N=int(input())
 for i in range(N):
     product=input()
     type_of_product=input()

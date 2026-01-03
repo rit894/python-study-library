@@ -54,3 +54,7 @@ else:
 '''import os
 os.rmdir("myfolder")'''
           
+with open("FH_2.txt", 'r') as f:
+    for line in f:
+        if 'chess' in line:
+            line.delete()
