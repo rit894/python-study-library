@@ -1,7 +1,7 @@
-'''import numpy as np
+import numpy as np
 arr=np.array([1, 2, 3],ndmin=5)
 print(arr)
-print("Number of dimensions:", arr.ndim)    '''
+print("Number of dimensions:", arr.ndim)
 # accsesing the elements in 1 D array
 '''import numpy as np
 arr=np.array([1,2,3,4])
