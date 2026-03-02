@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ce9233-a0e3-4701-95d0-6cbd815af122" name="Changes" comment="New changes made are being updated" />
+    <list default="true" id="93ce9233-a0e3-4701-95d0-6cbd815af122" name="Changes" comment="New changes made are being updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +30,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_Factorial.executor": "Run",
     "Python.4_prime_factores.executor": "Run",
+    "Python.7_bubble_sort.executor": "Run",
     "Python.Lec_01.executor": "Run",
     "Python.MID_TERM_CODE_SET_01.executor": "Run",
+    "Python.prac_Binary_Search.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/sridh/OneDrive/Desktop/sem 1/programing notes/python-study-library"

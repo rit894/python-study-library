@@ -1,4 +1,5 @@
 {
     "python.defaultInterpreterPath": "C:\\Users\\sridh\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
     
 }
